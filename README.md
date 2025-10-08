@@ -1,12 +1,12 @@
-# Olá! Eu Sou Emerson. 👋
+# Hi, I am Emerson. 👋
 
-🔗 **Link para Acesso e Visualização do Meu Portfólio:** [https://spiffy-genie-eb111c.netlify.app](https://spiffy-genie-eb111c.netlify.app)
+🔗 **Link para Acesso do Meu Portfólio:** [https://spiffy-genie-eb111c.netlify.app](https://spiffy-genie-eb111c.netlify.app)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About me
 
-Olá! Meu nome é **Emerson**. I am a computer and technology enthusiast, always looking to improve my knowledge in the development area.
+"I am a computer and technology enthusiast, always looking to improve my knowledge in the development area."
 
 * **Minha Trajetória e Foco Atual:**
     * Obtive importantes aprendizados e uma base sólida na área de **Ciência da Computação** na **UEPB**.
