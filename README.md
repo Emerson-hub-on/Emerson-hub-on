@@ -17,29 +17,6 @@ Olá! Meu nome é **Emerson**. Sou um entusiasta da computação e de suas tecno
 
 ---
 
-## 🛠️ Sobre o Portfólio (O Projeto)
-
-Este portfólio pessoal foi desenvolvido para apresentar minhas **habilidades técnicas** e **projetos**. Ele foi construído utilizando as principais tecnologias de **desenvolvimento Front-end**: **HTML**, **CSS** e **JavaScript**.
-
-### Tecnologias Utilizadas no Portfólio
-
-O projeto utiliza uma combinação de linguagens para garantir uma interface **responsiva**, **funcional** e visualmente atraente:
-
-* **HTML:** Estrutura fundamental da página.
-* **CSS:** Estilização completa, com um design moderno e responsivo, focado nas cores **preto** e **verde neon** (`#00ff88`).
-* **JavaScript:** Responsável pela interatividade, como o **menu mobile** e a funcionalidade de **contato via WhatsApp** no formulário.
-
-### Principais Seções
-
-O portfólio está organizado para oferecer uma visão completa do meu trabalho:
-
-* **Sobre Mim:** Informações biográficas, acadêmicas e um resumo das minhas competências, incluindo as habilidades de Back-end (**Python**, **Java**, e **C**) e noções de Banco de Dados.
-* **Habilidades:** Detalhamento das minhas principais *hard skills* de desenvolvimento: **HTML, CSS, JavaScript, Git/GitHub, TypeScript** e **React**.
-* **Projetos (Portfólio):** Uma galeria visual dos meus projetos hospedados no GitHub (como Sistemas de Gestão e Projetos de Clima).
-* **Contato:** Um formulário simples integrado para **enviar mensagens diretamente para o meu WhatsApp**.
-
----
-
 ## 🔗 Conecte-se Comigo
 
 * **GitHub:** **@Emerson-hub-on** (você já está aqui!)
