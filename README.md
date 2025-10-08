@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Emerson**. Sou um entusiasta da computação e de suas tecnologias, sempre em busca de aprimorar meus conhecimentos na área de desenvolvimento.
+Olá! Meu nome é **Emerson**. I am a computer and technology enthusiast, always looking to improve my knowledge in the development area.
 
 * **Minha Trajetória e Foco Atual:**
     * Obtive importantes aprendizados e uma base sólida na área de **Ciência da Computação** na **UEPB**.
