@@ -61,7 +61,7 @@ do banco de dados à tela do usuário.
   </a>
 </p>
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### 🥗 [Cyberly Diet](https://github.com/Emerson-hub-on/Cyberly-Diet) — diário alimentar com inteligência artificial
 
@@ -80,18 +80,6 @@ do banco de dados à tela do usuário.
 | 📱 Celular | Funciona pelo navegador do celular, com câmera e cadastro por convite |
 
 **Tecnologias:** Laravel 13 · PHP 8.3 · Tailwind CSS 4 · Alpine.js · Chart.js · IA com visão (Gemini / Claude) · Supabase (Postgres e Storage) · Vercel
-
-### 🛒 Cyberly Sistema — PDV com emissão fiscal
-
-| Área | O que faz |
-|---|---|
-| 🧾 Fiscal | Emissão de NFC-e e NF-e com certificado digital A1 |
-| 💻 Frente de caixa | Vendas rápidas, vários meios de pagamento, CPF na nota, funciona sem internet e sincroniza depois |
-| 🍽️ Restaurante | Comandas, mesas, impressão na cozinha e integração com o iFood |
-| 📱 Pedidos online | Cardápio para o cliente pedir pelo celular, raio de entrega e taxa por distância no mapa |
-| ☁️ Nuvem | Versão web multiempresa, painel de gestão de clientes e licenças |
-
-**Tecnologias:** Laravel · PHP 8.3 · MySQL · SQLite · Tailwind CSS · JavaScript · Leaflet · Nginx · Oracle Cloud
 
 ## 📊 Estatísticas
 
