@@ -1,24 +1,90 @@
-# Hi, I am Emerson. 👋
+<h1 align="center">Olá, eu sou o Emerson Sousa 👋</h1>
 
-🔗 **Link para Acesso do Meu Portfólio:** [https://spiffy-genie-eb111c.netlify.app](https://spiffy-genie-eb111c.netlify.app)
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · Campina Grande - PB<br />
+  Sistemas comerciais, automação fiscal e aplicações web
+</p>
 
----
-
-## 👨‍💻 About me
-
-"I am a computer and technology enthusiast, always looking to improve my knowledge in the development area."
-
-* **Minha Trajetória e Foco Atual:**
-    * Obtive importantes aprendizados e uma base sólida na área de **Ciência da Computação** na **UEPB**.
-    * Atualmente, estou focado em **Análise e Desenvolvimento de Sistemas** na **Unifacisa**.
-    * Buscando fluência para expandir minhas habilidades, estou aprimorando meu Inglês com **estudos por conta própria**.
-
-* **Minha Paixão:** Eu me desempenho ao máximo para renovar meus conhecimentos na área da programação, utilizando a criatividade e a inovação para construir websites intuitivos e funcionais.
+<p align="center">
+  <a href="https://spiffy-genie-eb111c.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/messon_souza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 👨‍💻 Sobre mim
 
-* **GitHub:** **@Emerson-hub-on** (você já está aqui!)
-* **Instragram:** messon_souza
-* *Outras informações de contato estão disponíveis no rodapé do portfólio.*
+Sou apaixonado por computação e tecnologia e estou sempre buscando aprimorar meus conhecimentos em
+desenvolvimento. Gosto de usar criatividade e inovação para construir sistemas intuitivos e funcionais,
+do banco de dados à tela do usuário.
+
+- 🛒 Desenvolvo o **Cyberly Sistema**, um sistema de PDV (frente de caixa) com emissão de **NFC-e e NF-e**,
+  comandas para restaurantes, integração com o **iFood** e pedidos online.
+- ⚙️ Trabalho do back-end ao front-end: regras de negócio, banco de dados, interfaces e implantação em servidor.
+- 🧠 Gosto de entender a base: **estruturas de dados** e algoritmos fazem parte do meu dia a dia.
+
+## 🎓 Formação
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Unifacisa *(em andamento)*
+- 📘 **Ciência da Computação** — UEPB, onde construí uma base sólida em programação e fundamentos da computação
+- 🌎 **Inglês** — aprimorando por conta própria
+
+## 🛠️ Linguagens e tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,html,css,js,react,vue,java,py,nodejs,c&perline=10" alt="PHP, HTML, CSS, JavaScript, React, Vue, Java, Python, Node.js e C" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Estrutura_de_Dados-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="Estrutura de Dados" />
+</p>
+
+### Também uso no dia a dia
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,tailwind,mysql,sqlite,vite,git,github,linux,nginx,vscode" alt="Laravel, Tailwind, MySQL, SQLite, Vite, Git, GitHub, Linux, Nginx e VS Code" />
+  </a>
+</p>
+
+## 🚀 Projeto em destaque
+
+### Cyberly Sistema — PDV com emissão fiscal
+
+| Área | O que faz |
+|---|---|
+| 🧾 Fiscal | Emissão de NFC-e e NF-e com certificado digital A1 |
+| 💻 Frente de caixa | Vendas rápidas, vários meios de pagamento, CPF na nota, funciona sem internet e sincroniza depois |
+| 🍽️ Restaurante | Comandas, mesas, impressão na cozinha e integração com o iFood |
+| 📱 Pedidos online | Cardápio para o cliente pedir pelo celular, raio de entrega e taxa por distância no mapa |
+| ☁️ Nuvem | Versão web multiempresa, painel de gestão de clientes e licenças |
+
+**Tecnologias:** Laravel · PHP 8.3 · MySQL · SQLite · Tailwind CSS · JavaScript · Leaflet · Nginx · Oracle Cloud
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Emerson-hub-on&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-hub-on&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+## 🔗 Conecte-se comigo
+
+<p align="center">
+  <a href="https://spiffy-genie-eb111c.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/messon_souza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center"><i>Outras formas de contato estão no rodapé do portfólio.</i></p>
