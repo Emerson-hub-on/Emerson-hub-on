@@ -88,6 +88,16 @@ do banco de dados à tela do usuário.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-hub-on&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emerson-hub-on/Emerson-hub-on/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emerson-hub-on/Emerson-hub-on/output/github-snake.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Emerson-hub-on/Emerson-hub-on/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🔗 Conecte-se comigo
 
 <p align="center">
