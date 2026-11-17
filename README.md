@@ -28,7 +28,6 @@ do banco de dados à tela do usuário.
 ## 🎓 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** — Unifacisa *(em andamento)*
-- 📘 **Ciência da Computação** — UEPB, onde construí uma base sólida em programação e fundamentos da computação
 - 🌎 **Inglês** — aprimorando por conta própria
 
 ## 🛠️ Linguagens e tecnologias
