@@ -20,6 +20,8 @@ do banco de dados à tela do usuário.
 
 - 🛒 Desenvolvo o **Cyberly Sistema**, um sistema de PDV (frente de caixa) com emissão de **NFC-e e NF-e**,
   comandas para restaurantes, integração com o **iFood** e pedidos online.
+- 🥗 Criei o **Cyberly Diet**, um diário alimentar em que a inteligência artificial analisa a foto do prato
+  e estima calorias e nutrientes.
 - ⚙️ Trabalho do back-end ao front-end: regras de negócio, banco de dados, interfaces e implantação em servidor.
 - 🧠 Gosto de entender a base: **estruturas de dados** e algoritmos fazem parte do meu dia a dia.
 
@@ -59,9 +61,27 @@ do banco de dados à tela do usuário.
   </a>
 </p>
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
-### Cyberly Sistema — PDV com emissão fiscal
+### 🥗 [Cyberly Diet](https://github.com/Emerson-hub-on/Cyberly-Diet) — diário alimentar com inteligência artificial
+
+<p>
+  <a href="https://cyberly-diet.vercel.app"><img src="https://img.shields.io/badge/Acessar_o_app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar o app" /></a>
+  <a href="https://github.com/Emerson-hub-on/Cyberly-Diet"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+</p>
+
+| Área | O que faz |
+|---|---|
+| 📸 Foto do prato | Tire uma foto da refeição e a IA identifica os alimentos e as porções |
+| 🔥 Nutrientes | Estima calorias, proteínas, carboidratos, açúcar, gorduras e fibras |
+| 🎯 Metas | Mostra quanto cada refeição representa da meta diária e o percentual de cada macronutriente |
+| 📈 Evolução | Painel com anéis de nutrientes e gráfico dos últimos 7 dias |
+| ⚖️ Hábitos | Registro de peso corporal, atividade física e ingestão de água |
+| 📱 Celular | Funciona pelo navegador do celular, com câmera e cadastro por convite |
+
+**Tecnologias:** Laravel 13 · PHP 8.3 · Tailwind CSS 4 · Alpine.js · Chart.js · IA com visão (Gemini / Claude) · Supabase (Postgres e Storage) · Vercel
+
+### 🛒 Cyberly Sistema — PDV com emissão fiscal
 
 | Área | O que faz |
 |---|---|
