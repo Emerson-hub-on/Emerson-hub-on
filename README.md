@@ -25,6 +25,11 @@ do banco de dados à tela do usuário.
 - ⚙️ Trabalho do back-end ao front-end: regras de negócio, banco de dados, interfaces e implantação em servidor.
 - 🧠 Gosto de entender a base: **estruturas de dados** e algoritmos fazem parte do meu dia a dia.
 
+## 💼 Experiência
+
+- 🖥️ **Suporte de TI** — Cupom Fiscal Sistemas *(atual)*  
+  Suporte técnico aos clientes da empresa: atendimento, instalação e configuração dos sistemas e resolução de problemas.
+
 ## 🎓 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** — Unifacisa *(em andamento)*
